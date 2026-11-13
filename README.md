@@ -1,2 +1,2 @@
 # Microlites
-A Microlite is a small satellite like device that is designed to simulate space satellites while providing useful functionality
+A Microlite is a tiny satellite like device designed for users to integrated sensors and other devices to expand or alter its functioanlity
